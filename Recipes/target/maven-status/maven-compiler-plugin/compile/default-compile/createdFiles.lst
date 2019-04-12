@@ -1,0 +1,8 @@
+com\qa\persistence\repository\RecipeDBRepositry.class
+com\qa\business\service\RecipeServiceImpl.class
+com\qa\rest\recipeEndpoint.class
+com\qa\util\JSONUtil.class
+com\qa\business\service\RecipeService.class
+com\qa\persistence\repository\RecipeRepository.class
+com\qa\rest\JAXActivator.class
+com\qa\persistence\domain\Recipe.class
